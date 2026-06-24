@@ -79,6 +79,7 @@ goal        = "build smart and efficient systems"
 <img src="https://github-readme-streak-stats.herokuapp.com?user=F236108&theme=tokyonight&hide_border=true"/>
 
 </div>
+<img width="1200" height="420" alt="image" src="https://github.com/user-attachments/assets/1f715579-3ad8-4d69-94c5-82739733421b" />
 
 ---
 
